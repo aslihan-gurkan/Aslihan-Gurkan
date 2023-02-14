@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <div id="header" align="center">
   <img src="[https://www.pluralsight.com/](https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47qymtq8931h69pgtckv3d7jxx56gn9vv7msltif8l&rid=giphy.gif&ct=g)" width="100"/>
