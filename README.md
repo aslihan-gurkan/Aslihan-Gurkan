@@ -8,7 +8,10 @@
 - 🔭 I’m currently working on my projects.
   <br>
 - 🌱 I’m currently learning Swift. <br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/aslıhan-gürkan-765943103/">linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/aslıhan-gürkan-765943103/">linkedin</a> <br>
+  
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/aslıhan-gürkan-765943103/">linkedin</a> &nbsp; <a href="https://twitter.com/asl_gurkan"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"></a> &nbsp;
+ <a href="https://www.linkedin.com/in/aslıhan-gürkan-765943103/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" height="40"></a> &nbsp;
 
   </div>
   </br>
@@ -28,14 +31,12 @@
   <li><a href="https://medium.com/dev-genius/value-type-vs-reference-type-in-swift-5cc5b179dad7"> Value Type vs Reference Type in Swift </a> </li>
   <li><a href="https://medium.com/dev-genius/how-to-use-codable-in-swift-for-json-encoding-and-decoding-85b8d5f945c8"> How to Use Codable in Swift for JSON Encoding and Decoding </a> </li>
 </ul>
- </br>
+
 ➡️ <a href="https://medium.com/@aslihangurkan"> More Blog Post </a> 
 </br>
 <h1></h1>
 
-<h3 align="center"> 📫 How to reach me </h3> 
 <a href="https://twitter.com/asl_gurkan"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"></a> &nbsp;
-<a href="https://www.linkedin.com/in/aslıhan-gürkan-765943103/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" height="40"></a> &nbsp;
 
 
 <h1></h1>
