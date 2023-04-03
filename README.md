@@ -40,11 +40,14 @@
 
 <div align="center"> 
   <h2> 🔥 My Stats 🔥 </h2> 
+</div>
+  
 <div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aslihan-gurkan&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
   
 </div>
+  
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aslihan-gurkan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
