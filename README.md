@@ -14,7 +14,7 @@
   </br>
   
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -43,7 +43,8 @@
  
  <h1></h1>
 <h1 align="center"> 📫 How to reach me </h1> 
-<a href="https://twitter.com/asl_gurkan"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40" height="40"></a>
+<a href="https://twitter.com/asl_gurkan"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"></a> &nbsp;
+<a href="https://www.linkedin.com/in/aslıhan-gürkan-765943103/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" height="40"></a> &nbsp;
 
 
 <!--
