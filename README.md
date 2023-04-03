@@ -22,7 +22,9 @@
 </div>
 
 <h1></h1>
-<h1 align="center"> Latest Blog Posts </h1> 
+<h1 align="center"> ✨ Latest Blog Posts ✨ </h1> 
+[I'm an inline-style link](https://www.google.com)
+</br>
 [MVVM Architectural Design Pattern in Swift](https://medium.com/@aslihangurkan)
 
 
@@ -37,8 +39,11 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aslihan-gurkan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-  </div>
-  
+ </div>
+ 
+ <h1></h1>
+<h1 align="center"> 📫 How to reach me </h1> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
 
 <!--
 **aslihan-gurkan/Aslihan-Gurkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
