@@ -46,8 +46,8 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aslihan-gurkan&theme=swift&hide_border=true&background=efede3&mode=weekly)](https://git.io/streak-stats)
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aslihan-gurkan&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
-  
+ <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aslihan-gurkan&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
+  -->
 </div>
   
 <div align="center">
