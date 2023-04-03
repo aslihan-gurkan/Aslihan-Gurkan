@@ -20,6 +20,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+<h1></h1>
+<h1 align="center"> Latest Blog Posts </h1> 
+[MVVM Architectural Design Pattern in Swift](https://pages.github.com/](https://medium.com/dev-genius/mvvm-architectural-design-pattern-in-swift-87dde74758b0)
+
+
 <h1></h1>
 <h1 align="center"> 🔥 My Stats 🔥 </h1> 
 <div align="center">
