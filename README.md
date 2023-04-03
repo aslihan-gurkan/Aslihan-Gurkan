@@ -25,13 +25,13 @@
 <h1 align="center"> ✨ Latest Blog Posts ✨ </h1> 
 
 <a href="https://medium.com/dev-genius/mvvm-architectural-design-pattern-in-swift-87dde74758b0"> MVVM Architectural Design Pattern in Swift </a> 
-</br>
+</br> </br>
 <a href="https://medium.com/dev-genius/value-type-vs-reference-type-in-swift-5cc5b179dad7"> Value Type vs Reference Type in Swift </a> 
-</br>
+</br> </br>
 <a href="https://medium.com/dev-genius/how-to-use-codable-in-swift-for-json-encoding-and-decoding-85b8d5f945c8"> How to Use Codable in Swift for JSON Encoding and Decoding </a> 
-</br>
+</br> </br>
 ➡️ <a href="https://medium.com/@aslihangurkan"> More Blog Post </a> 
-
+</br>
 <h1></h1>
 <h1 align="center"> 🔥 My Stats 🔥 </h1> 
 <div align="center">
