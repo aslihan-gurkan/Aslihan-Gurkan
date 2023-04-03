@@ -36,9 +36,10 @@
 ➡️ <a href="https://medium.com/@aslihangurkan"> More Blog Post </a> 
 </br>
 
-<h1></h1>
+<h2></h2>
 
 <h2 align="center"> 🔥 My Stats 🔥 </h2> 
+<h2></h2>
 <div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aslihan-gurkan&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
