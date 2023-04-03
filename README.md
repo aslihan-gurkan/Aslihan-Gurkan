@@ -33,11 +33,9 @@
 
 ➡️ <a href="https://medium.com/@aslihangurkan"> More Blog Post </a> 
 </br>
-<h1></h1>
-
-
 
 <h1></h1>
+
 <h2 align="center"> 🔥 My Stats 🔥 </h2> 
 <div align="center">
   
