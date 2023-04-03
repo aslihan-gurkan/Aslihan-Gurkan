@@ -37,6 +37,8 @@
 </br>
 
 <h2></h2>
+<h3 align="center"> 🔥 My Stats 🔥 </h3> 
+<h2></h2>
 
 <div align="center"> 
   <h2> 🔥 My Stats 🔥 </h2> 
