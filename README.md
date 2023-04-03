@@ -23,9 +23,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-<h1></h1>
+<h2></h2>
 <h3 align="center"> ✨ Latest Blog Posts ✨ </h3> 
-<h1></h1>
+<h3></h3>
 
 <ul>
   <li><a href="https://medium.com/dev-genius/mvvm-architectural-design-pattern-in-swift-87dde74758b0"> MVVM Architectural Design Pattern in Swift </a> </li>
