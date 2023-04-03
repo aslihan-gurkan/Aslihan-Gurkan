@@ -25,6 +25,7 @@
 
 <h1></h1>
 <h3 align="center"> ✨ Latest Blog Posts ✨ </h3> 
+<div align="center">
 <ul>
   <li><a href="https://medium.com/dev-genius/mvvm-architectural-design-pattern-in-swift-87dde74758b0"> MVVM Architectural Design Pattern in Swift </a> </li>
   <li><a href="https://medium.com/dev-genius/value-type-vs-reference-type-in-swift-5cc5b179dad7"> Value Type vs Reference Type in Swift </a> </li>
@@ -47,8 +48,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aslihan-gurkan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
- 
- <h1></h1>
 
 
 <!--
