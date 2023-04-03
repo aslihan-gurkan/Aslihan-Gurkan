@@ -22,7 +22,7 @@
 </div>
 
 <h1></h1>
-<h1 align="center"> ✨ Latest Blog Posts ✨ </h1> 
+<h3 align="center"> ✨ Latest Blog Posts ✨ </h3> 
 <ul>
   <li><a href="https://medium.com/dev-genius/mvvm-architectural-design-pattern-in-swift-87dde74758b0"> MVVM Architectural Design Pattern in Swift </a> </li>
   <li><a href="https://medium.com/dev-genius/value-type-vs-reference-type-in-swift-5cc5b179dad7"> Value Type vs Reference Type in Swift </a> </li>
@@ -32,7 +32,14 @@
 ➡️ <a href="https://medium.com/@aslihangurkan"> More Blog Post </a> 
 </br>
 <h1></h1>
-<h1 align="center"> 🔥 My Stats 🔥 </h1> 
+
+<h3 align="center"> 📫 How to reach me </h3> 
+<a href="https://twitter.com/asl_gurkan"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"></a> &nbsp;
+<a href="https://www.linkedin.com/in/aslıhan-gürkan-765943103/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" height="40"></a> &nbsp;
+
+
+<h1></h1>
+<h2 align="center"> 🔥 My Stats 🔥 </h2> 
 <div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aslihan-gurkan&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
@@ -45,9 +52,6 @@
  </div>
  
  <h1></h1>
-<h1 align="center"> 📫 How to reach me </h1> 
-<a href="https://twitter.com/asl_gurkan"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"></a> &nbsp;
-<a href="https://www.linkedin.com/in/aslıhan-gürkan-765943103/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" height="40"></a> &nbsp;
 
 
 <!--
