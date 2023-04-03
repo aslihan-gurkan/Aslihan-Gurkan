@@ -23,7 +23,7 @@
 
 <h1></h1>
 <h1 align="center"> Latest Blog Posts </h1> 
-[MVVM Architectural Design Pattern in Swift]([https://medium.com/dev-genius/mvvm-architectural-design-pattern-in-swift-87dde74758b0](https://medium.com/@aslihangurkan))
+[MVVM Architectural Design Pattern in Swift](https://medium.com/@aslihangurkan)
 
 
 <h1></h1>
