@@ -43,7 +43,8 @@
  
  <h1></h1>
 <h1 align="center"> 📫 How to reach me </h1> 
- <img src="https://twitter.com/asl_gurkan" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
+<a href="[link address](https://twitter.com/asl_gurkan)"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"></a>
+
 
 <!--
 **aslihan-gurkan/Aslihan-Gurkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
