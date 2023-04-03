@@ -35,7 +35,6 @@
 </br>
 <h1></h1>
 
-<a href="https://twitter.com/asl_gurkan"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"></a> &nbsp;
 
 
 <h1></h1>
