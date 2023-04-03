@@ -43,7 +43,7 @@
  
  <h1></h1>
 <h1 align="center"> 📫 How to reach me </h1> 
-<a href="https://twitter.com/asl_gurkan"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"></a>
+<a href="https://twitter.com/asl_gurkan"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="40" height="40"></a>
 
 
 <!--
