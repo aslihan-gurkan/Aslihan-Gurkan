@@ -9,8 +9,8 @@
   <br>
 - 🌱 I’m currently learning Swift. <br>
   
-- 📫 How to reach me: <a href="https://twitter.com/asl_gurkan"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="20" height="20"></a> &nbsp;
- <a href="https://www.linkedin.com/in/aslıhan-gürkan-765943103/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="20" height="20"></a> &nbsp;
+- 📫 How to reach me: <a href="https://twitter.com/asl_gurkan"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="15" height="15"></a> &nbsp;
+ <a href="https://www.linkedin.com/in/aslıhan-gürkan-765943103/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="15" height="15"></a> &nbsp;
 
   </div>
   </br>
