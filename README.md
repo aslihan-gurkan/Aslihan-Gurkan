@@ -5,7 +5,7 @@
 ![personal_profile](https://user-images.githubusercontent.com/28388524/229601645-5f3fdc61-950d-4f9d-baf3-afa1b33a35d3.png)
 -->
 
-![3](https://github.com/aslihan-gurkan/Aslihan-Gurkan/assets/28388524/dee021dc-462a-4d12-99e6-fa9cfcbd7386)
+![3](https://github.com/aslihan-gurkan/Aslihan-Gurkan/assets/28388524/5ddcf745-5adf-4381-8e0f-e9ce8601c6b5)
 
 <div id="header" align="center">
   <img src="[https://www.pluralsight.com/](https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47qymtq8931h69pgtckv3d7jxx56gn9vv7msltif8l&rid=giphy.gif&ct=g)" width="100"/>
@@ -15,7 +15,7 @@
 <div align="center">
 - 🔭 I’m currently working on my projects.
   <br>
-- 🌱 I’m currently learning Swift. <br>
+<!-- - 🌱 I’m currently learning Swift. <br> -->
   
 - 📫 How to reach me: <a href="https://twitter.com/asl_gurkan"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="15" height="15"></a>
  <a href="https://www.linkedin.com/in/aslıhan-gürkan-765943103/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="15" height="15"></a> &nbsp;
