@@ -5,6 +5,8 @@
 
 ![personal_profile](https://user-images.githubusercontent.com/28388524/229601645-5f3fdc61-950d-4f9d-baf3-afa1b33a35d3.png)
 
+![3](https://github.com/aslihan-gurkan/Aslihan-Gurkan/assets/28388524/dee021dc-462a-4d12-99e6-fa9cfcbd7386)
+
 <div id="header" align="center">
   <img src="[https://www.pluralsight.com/](https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47qymtq8931h69pgtckv3d7jxx56gn9vv7msltif8l&rid=giphy.gif&ct=g)" width="100"/>
 </div>
